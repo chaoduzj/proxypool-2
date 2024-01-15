@@ -1,8 +1,6 @@
 # proxypool
 
 ![Static Badge](https://img.shields.io/badge/ss|ssr|vmess|vless|trojan-free-orange)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/snakem982/proxypool?color=DC52FC)
-
 
 超级clash节点池聚合.
 蛋痒了就更新。
