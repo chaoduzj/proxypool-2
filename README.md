@@ -13,7 +13,7 @@ Update when I have time.
 Welcome to star and share free nodes.
 
 ## <font color="red">说在前面<br/>Friendly Reminder</font>
-<font color="red">节点来自公开在互联网上的信息，不保证财产信息安全和稳定性。不建议长期使用！！！<br/>
+<font color="red">节点链接来自公开在互联网上的信息，不保证财产信息安全和稳定性。不建议长期使用！！！<br/>
 Nodes come from information published on the Internet,
 which does not guarantee the security and stability of property information.
 Long-term use is not recommended! ! !</font><br/>
@@ -25,20 +25,13 @@ The following is a self-built node cost-effective server recommendation:
 - [5000G/月Month 网速1Gbps 2vCPU 3G RAM $27.98/年Year 2024美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=828 "2024美国RackNerd促销")
 - [8000G/月Month 网速1Gbps 2vCPU 4G RAM $37.38/年Year 2024美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=829 "2024美国RackNerd促销")
 
-## 订阅地址，六个小时更新一次。<br/>Subscription url, updated every six hours.
-### mihomo
-https://raw.githubusercontent.com/snakem982/proxypool/main/mihomoc5903.yaml  (需要魔法 Need Proxy)
-https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/mihomoc5903.yaml
-https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/mihomoc5903.yaml
-### clash
-https://raw.githubusercontent.com/snakem982/proxypool/main/clashc5903.yaml  (需要魔法 Need Proxy)
-https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/clashc5903.yaml
-https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/clashc5903.yaml
-### v2ray
-https://raw.githubusercontent.com/snakem982/proxypool/main/v2rayc5903.txt  (需要魔法 Need Proxy)
-https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/v2rayc5903.txt
-https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/v2rayc5903.txt
-
+## 订阅地址或分享链接在如下文件里，请自行测试可用性<br>The subscription address or sharing link is in the following file, please test the availability by yourself
+### nodelist.txt
+https://raw.githubusercontent.com/snakem982/proxypool/main/nodelist.txt
+### proxies.txt
+https://raw.githubusercontent.com/snakem982/proxypool/main/proxies.txt
+### webfuzz.yaml
+https://raw.githubusercontent.com/snakem982/proxypool/main/webfuzz.yaml
 
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
