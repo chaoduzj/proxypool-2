@@ -25,11 +25,13 @@ The following is a self-built node cost-effective server recommendation:
 
 ## 订阅地址或分享链接在如下文件里，请自行测试可用性<br>The subscription address or sharing link is in the following file, please test the availability by yourself
 ### nodelist.txt
-https://raw.githubusercontent.com/snakem982/proxypool/main/nodelist.txt
+https://github.com/snakem982/proxypool/blob/main/nodelist.txt
 ### proxies.txt
-https://raw.githubusercontent.com/snakem982/proxypool/main/proxies.txt
+https://github.com/snakem982/proxypool/blob/main/proxies.txt
 ### webfuzz.yaml
-https://raw.githubusercontent.com/snakem982/proxypool/main/webfuzz.yaml
+https://github.com/snakem982/proxypool/blob/main/webfuzz.yaml
+### telegram channel hub
+https://github.com/snakem982/proxypool/blob/main/tgchannel.json
 
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
