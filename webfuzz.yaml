@@ -35,7 +35,7 @@
 # 20230813
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/proxies_row_url.txt
+    url: https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 
 # 20230824
 - type: webfuzz
