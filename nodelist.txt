@@ -49,9 +49,3 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/vveg26/chromego_merge/main/sub/merged_proxies_new.yaml
 https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/clash.config.yaml
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub1_base64.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub2_base64.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub3_base64.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub4_base64.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub5_base64.txt
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub6_base64.txt
