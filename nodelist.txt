@@ -35,7 +35,6 @@ https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/ZywChannel/free/main/sub
 https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks
@@ -50,3 +49,9 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/vveg26/chromego_merge/main/sub/merged_proxies_new.yaml
 https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/clash.config.yaml
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub1_base64.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub2_base64.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub3_base64.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub4_base64.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub5_base64.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Base64/Sub6_base64.txt
