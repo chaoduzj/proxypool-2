@@ -1,9 +1,13 @@
 http://104.168.244.47:12580/clash/proxies
 http://123.57.192.169:7777/clash/proxies
+http://141.147.161.50:12580/clash/proxies
 http://146.56.97.77:12580/clash/proxies
 http://150.230.195.209:12580/clash/proxies
 http://150.230.251.224:12580/clash/proxies
 http://174.137.58.32:12580/clash/proxies
+http://175.178.182.178:12580/clash/proxies
+http://23.94.59.182:12580/clash/proxies
+http://66.42.50.118:12580/clash/proxies
 http://beetle.lander.work/clash/proxies
 http://rot.9o9.top:880/clash/proxies
 https://clashe.eu.org/clash/proxies
