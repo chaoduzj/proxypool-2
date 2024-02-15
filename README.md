@@ -1,6 +1,7 @@
 # proxypool
 
 ![Static Badge](https://img.shields.io/badge/ss|ssr|vmess|vless|trojan-free-orange)
+![Static Badge](https://img.shields.io/badge/tuic|hysteria|hysteria2-free-orange)
 
 超级clash节点池聚合.
 蛋痒了就更新。
