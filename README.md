@@ -20,7 +20,7 @@ If you want a continuous, stable, safe, and high-speed node, please build it you
 The following is a self-built node cost-effective server recommendation:
 - [2000GB/月Month 网速1Gbps 1vCPU 1G RAM $10.99/年Year 2024中国新年-美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=838 "2024中国新年-美国RackNerd促销")
 - [4000GB/月Month 网速1Gbps 1vCPU 1.5G RAM $16.88/年Year 2024中国新年-美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=839 "2024中国新年-美国RackNerd促销")
-- [6000GB/月Month 网速1Gbps 2vCPU 2.5G RAM $23.88/年Year 2024美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=840 "2024美国RackNerd中国新年促销")
+- [6000GB/月Month 网速1Gbps 2vCPU 2.5G RAM $23.88/年Year 2024中国新年-美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=840 "2024中国新年-美国RackNerd促销")
 
 ## 订阅地址或分享链接在如下文件里，可以使用 [Pandora-Box](https://github.com/snakem982/Pandora-Box/blob/main/README-CN.md) 测试可用性<br>The subscription address or sharing link is in the following file. <br>You can use [Pandora-Box](https://github.com/snakem982/Pandora-Box) to test the usability
 ### nodelist.txt
