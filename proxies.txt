@@ -1,6 +1,5 @@
 http://104.168.244.47:12580/clash/proxies
 http://123.57.192.169:7777/clash/proxies
-http://141.147.161.50:12580/clash/proxies
 http://146.56.97.77:12580/clash/proxies
 http://150.230.195.209:12580/clash/proxies
 http://150.230.251.224:12580/clash/proxies
@@ -13,7 +12,6 @@ http://rot.9o9.top:880/clash/proxies
 https://clashe.eu.org/clash/proxies
 https://fetchjiedian.feisu360.xyz/clash/proxies
 https://free.dsdog.tk/clash/proxies
-https://free.jingfu.cf/clash/proxies
 https://laxcity.pages.dev/clash/proxies
 https://proxy.crazygeeky.com/clash/proxies
 https://proxy.fldhhhhhh.top/clash/proxies
