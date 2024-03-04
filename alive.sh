@@ -180,7 +180,7 @@ function isUpdated()
     fi
 }
 
-echo "" > result.log
+rm -rf result.log
 i=1
 
 data=$(cat nodelist.txt)
