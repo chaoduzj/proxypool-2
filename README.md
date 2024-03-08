@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/tuic|hysteria|hysteria2-free-orange)
 
 超级clash节点池聚合.
-蛋痒了就更新。
+不定期更新。
 欢迎star，共享免费节点。
 <br/>
 Super clash node pool aggregation.
