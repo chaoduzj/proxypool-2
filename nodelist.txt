@@ -47,5 +47,4 @@ https://raw.githubusercontent.com/Vauth/node/main/Main
 https://raw.githubusercontent.com/Vauth/node/main/Pro
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
-https://raw.githubusercontent.com/vveg26/chromego_merge/main/sub/merged_proxies_new.yaml
 https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/clash.config.yaml
