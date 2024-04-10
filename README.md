@@ -16,6 +16,8 @@ Welcome to star and share free nodes.
 Nodes come from information published on the Internet,
 which does not guarantee the security and stability of property information.
 Long-term use is not recommended! ! !</font><br/>
+为什么不安全？请观看大佬讲解 <br/> https://www.youtube.com/watch?v=vuF6rDLp3pg <br/>
+https://www.youtube.com/watch?v=7yTpdsOF8us <br/>
 若要持续、稳定、安全、高速的节点请自建，下面是高性价比服务器推荐（可以用支付宝）：<br/>
 If you want a continuous, stable, safe, and high-speed node, please build it yourself.
 The following is a self-built node cost-effective server recommendation（Support Alipay）:<br/>
