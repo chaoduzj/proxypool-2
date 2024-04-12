@@ -1,4 +1,3 @@
-http://146.56.97.77:12580/clash/proxies
 http://150.230.195.209:12580/clash/proxies
 http://174.137.58.32:12580/clash/proxies
 http://175.178.182.178:12580/clash/proxies
