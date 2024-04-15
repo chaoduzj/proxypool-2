@@ -37,11 +37,6 @@
   options:
     url: https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 
-# 20230824
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current
-
 # 20230909
 - type: webfuzz
   options:
@@ -56,3 +51,8 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/markbang/chromegopacs/main/hy2pac.txt
+
+# 20240415
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/imohammadkhalili/V2RAY/main/Mkhalili
