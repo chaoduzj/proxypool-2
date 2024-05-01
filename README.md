@@ -23,9 +23,9 @@ Long-term use is not recommended! ! !</font><br/>
 若要持续、稳定、安全、高速的节点请自建，下面是高性价比服务器推荐（可以用支付宝）：<br/>
 If you want a continuous, stable, safe, and high-speed node, please build it yourself.
 The following is a self-built node cost-effective server recommendation（Support Alipay）:<br/>
-- [2000GB/月Month 网速1Gbps 1vCPU 1G RAM $10.99/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=838 "美国RackNerd促销")
-- [4000GB/月Month 网速1Gbps 1vCPU 1.5G RAM $16.88/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=839 "美国RackNerd促销")
-- [6000GB/月Month 网速1Gbps 2vCPU 2.5G RAM $23.88/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613&pid=840 "美国RackNerd促销")
+- [2000GB/月Month 网速1Gbps 1vCPU 1G RAM $10.99/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=838 "美国大厂促销")
+- [4000GB/月Month 网速1Gbps 1vCPU 1.5G RAM $16.88/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=839 "美国大厂促销")
+- [6000GB/月Month 网速1Gbps 2vCPU 2.5G RAM $23.88/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=840 "美国大厂促销")
 
 下面是支持ipv6的服务器推荐：<br/>
 - [1 ipv4,3 ipv6](https://app.cloudcone.com/?ref=11078 "美国1个ip4地址，3个ip6地址")
