@@ -27,7 +27,7 @@ The following is a self-built node cost-effective server recommendation（Suppor
 - [4000GB/月Month 网速1Gbps 1vCPU 1.5G RAM $16.88/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=839 "美国大厂促销")
 - [6000GB/月Month 网速1Gbps 2vCPU 2.5G RAM $23.88/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=840 "美国大厂促销")
 
-下面是支持ipv6的服务器推荐：<br/>
+下面是支持ipv6的服务器推荐，需要注册登录后浏览：<br/>
 - [1 ipv4,3 ipv6](https://app.cloudcone.com/?ref=11078 "美国1个ip4地址，3个ip6地址")
 
 ## <font color="red">马甲网站<br/>Disguise Website</font>
