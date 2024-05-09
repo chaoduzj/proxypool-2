@@ -23,9 +23,15 @@ Long-term use is not recommended! ! !</font><br/>
 若要持续、稳定、安全、高速的节点请自建，下面是高性价比服务器推荐（可以用支付宝）：<br/>
 If you want a continuous, stable, safe, and high-speed node, please build it yourself.
 The following is a self-built node cost-effective server recommendation（Support Alipay）:<br/>
+- [1000GB/月Month 网速1Gbps 1vCPU 768MB RAM $10.18/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=792 "美国大厂促销")
 - [2000GB/月Month 网速1Gbps 1vCPU 1G RAM $10.99/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=838 "美国大厂促销")
+- [3000GB/月Month 网速1Gbps 1vCPU 1G RAM $10.98/年Year 卧槽，这个划算](https://my.racknerd.com/aff.php?aff=8613&pid=358 "卧槽，这个划算")
+- [4000GB/月Month 网速1Gbps 1vCPU 1G RAM $12.98/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=735 "美国大厂促销")
 - [4000GB/月Month 网速1Gbps 1vCPU 1.5G RAM $16.88/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=839 "美国大厂促销")
+- [5000GB/月Month 网速1Gbps 3vCPU 3.5G RAM $30.19/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=125 "美国大厂促销")
 - [6000GB/月Month 网速1Gbps 2vCPU 2.5G RAM $23.88/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=840 "美国大厂促销")
+- [6500GB/月Month 网速1Gbps 3vCPU 2.5G RAM $26.25/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=157 "美国大厂促销")
+- [10000GB/月Month 网速1Gbps 2vCPU 3.5G RAM $38.88/年Year 美国大厂促销](https://my.racknerd.com/aff.php?aff=8613&pid=698 "美国大厂促销")
 
 下面是支持ipv6的服务器推荐，需要注册登录后浏览：<br/>
 - [1 ipv4,3 ipv6](https://app.cloudcone.com/?ref=11078 "美国1个ip4地址，3个ip6地址")
