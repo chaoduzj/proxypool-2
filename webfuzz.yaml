@@ -56,8 +56,3 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/imohammadkhalili/V2RAY/main/Mkhalili
-
-# 20240502
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
