@@ -3,11 +3,11 @@
 ![Static Badge](https://img.shields.io/badge/ss|ssr|vmess|vless|trojan-free-orange)
 ![Static Badge](https://img.shields.io/badge/tuic|hysteria|hysteria2-free-orange)
 
-超级clash节点池聚合.
+超级Mihomo/Clash.Meta/Clash节点池聚合.
 不定期更新。
 欢迎star，共享免费节点。
 <br/>
-Super clash node pool aggregation.
+Super Mihomo/Clash.Meta/Clash node pool aggregation.
 Update when I have time.
 Welcome to star and share free nodes.
 
