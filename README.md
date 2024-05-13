@@ -38,7 +38,6 @@ The following is a self-built node cost-effective server recommendation（Suppor
 
 ## <font color="red">马甲网站<br/>Disguise Website</font>
 - https://snakem982.12131618.xyz
-- https://pandora-box.serv00.net
 
 ## 订阅地址或分享链接在如下文件里，可以使用 [Pandora-Box](https://github.com/snakem982/Pandora-Box/blob/main/README-CN.md) 进行节点抓取<br>The subscription address or sharing link is in the following file. <br>You can use [Pandora-Box](https://github.com/snakem982/Pandora-Box) to grab nodes
 ### nodelist.txt
