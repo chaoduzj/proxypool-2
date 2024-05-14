@@ -39,7 +39,7 @@ The following is a self-built node cost-effective server recommendation（Suppor
 ## <font color="red">更多免费资源<br/>My Blog</font>
 - https://snakem982.12131618.xyz
 
-## 订阅地址或分享链接在如下文件里<br>The subscription address or sharing link is in the following file.
+## 订阅地址或分享链接在如下文件里<br>The subscription address or sharing link is in the following file
 ### nodelist.txt
 https://github.com/snakem982/proxypool/blob/main/nodelist.txt
 ### proxies.txt
