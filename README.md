@@ -36,7 +36,7 @@ The following is a self-built node cost-effective server recommendation（Suppor
 下面是支持ipv6的服务器推荐，需要注册登录后浏览：<br/>
 - [1 ipv4,3 ipv6](https://app.cloudcone.com/?ref=11078 "美国1个ip4地址，3个ip6地址")
 
-## <font color="red">马甲网站<br/>Disguise Website</font>
+## <font color="red">更多免费资源<br/>My Blog</font>
 - https://snakem982.12131618.xyz
 
 ## 订阅地址或分享链接在如下文件里，可以使用 [Pandora-Box](https://github.com/snakem982/Pandora-Box/blob/main/README-CN.md) 进行节点抓取<br>The subscription address or sharing link is in the following file. <br>You can use [Pandora-Box](https://github.com/snakem982/Pandora-Box) to grab nodes
