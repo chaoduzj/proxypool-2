@@ -11,7 +11,17 @@ Super Mihomo/Clash.Meta/Clash node pool aggregation.
 Update when I have time.
 Welcome to star and share free nodes.
 
-## <font color="red">说在前面<br/>Friendly Reminder</font>
+## 订阅地址或分享链接在如下文件里<br>The subscription address or sharing link is in the following file
+### nodelist.txt
+https://github.com/snakem982/proxypool/blob/main/nodelist.txt
+### proxies.txt
+https://github.com/snakem982/proxypool/blob/main/proxies.txt
+### webfuzz.yaml
+https://github.com/snakem982/proxypool/blob/main/webfuzz.yaml
+### telegram channel hub
+https://github.com/snakem982/proxypool/blob/main/tgchannel.json
+
+## <font color="red">温馨提示<br/>Friendly Reminder</font>
 <font color="red">节点链接来自公开在互联网上的信息，不保证财产信息安全和稳定性。不建议长期使用！！！<br/>
 Nodes come from information published on the Internet,
 which does not guarantee the security and stability of property information.
@@ -43,16 +53,6 @@ The following is a self-built node cost-effective server recommendation（Suppor
 
 ## <font color="red">更多免费资源 --> 右上角免费节点</font>
 - https://snakem982.12131618.xyz
-
-## 订阅地址或分享链接在如下文件里<br>The subscription address or sharing link is in the following file
-### nodelist.txt
-https://github.com/snakem982/proxypool/blob/main/nodelist.txt
-### proxies.txt
-https://github.com/snakem982/proxypool/blob/main/proxies.txt
-### webfuzz.yaml
-https://github.com/snakem982/proxypool/blob/main/webfuzz.yaml
-### telegram channel hub
-https://github.com/snakem982/proxypool/blob/main/tgchannel.json
 
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
