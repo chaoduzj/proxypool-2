@@ -36,7 +36,7 @@ The following is a self-built node cost-effective server recommendation（Suppor
 | 序号 | 流量/月  |  网速   | CPU核数 |  运行内存  |  硬盘   |  价格/年  |                              查看详情                               |
 |:--:|:-----:|:-----:|:-----:|:------:|:-----:|:------:|:---------------------------------------------------------------:|
 | 1  | 1000G | 1Gbps |   1   | 768 MB | 15 GB | $10.18 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=792 "点击查看") |
-| 2  | 1500G | 1Gbps |   1   |  1 G   | 21 GB | $11.4  | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=826 "点击查看") |
+| 2  | 1500G | 1Gbps |   1   |  1 G   | 21 GB | $11.49 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=826 "点击查看") |
 | 3  | 2000G | 1Gbps |   1   |  1 G   | 15 GB | $10.99 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=838 "点击查看") |
 | 4  | 2500G | 1Gbps |   1   |  2 G   | 35 GB | $17.38 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=827 "点击查看") |
 | 5  | 3000G | 1Gbps |   1   |  1 G   | 17 GB | $10.98 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=358 "点击查看") |
