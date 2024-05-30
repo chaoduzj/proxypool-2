@@ -30,9 +30,9 @@ Long-term use is not recommended! ! !</font><br/>
 - https://www.youtube.com/watch?v=vuF6rDLp3pg
 - https://www.youtube.com/watch?v=7yTpdsOF8us<br/>
 
-若要持续、稳定、安全、高速的节点请自建，下面是高性价比服务器推荐（可以用支付宝）：<br/>
+若要持续、稳定、安全、高速的节点请自建，下面是高性价比云服务器推荐（可以用支付宝）：<br/>
 If you want a continuous, stable, safe, and high-speed node, please build it yourself.
-The following is a self-built node cost-effective server recommendation（Support Alipay）:<br/>
+The following is a self-built node cost-effective cloud server recommendation（Support Alipay）:<br/>
 | 序号 | 流量/月  |  网速   | CPU核数 |  运行内存  |  硬盘   |  价格/年  |                              查看详情                               |
 |:--:|:-----:|:-----:|:-----:|:------:|:-----:|:------:|:---------------------------------------------------------------:|
 | 1  | 1000G | 1Gbps |   1   | 768 MB | 15 GB | $10.18 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=792 "点击查看") |
