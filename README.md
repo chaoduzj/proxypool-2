@@ -51,8 +51,11 @@ The following is a self-built node cost-effective cloud server recommendation（
 下面是支持ipv6的服务器推荐，需要注册登录后浏览：<br/>
 - [1 ipv4,3 ipv6](https://app.cloudcone.com/?ref=11078 "美国1个ip4地址，3个ip6地址")
 
-## <font color="red">更多免费资源 --> 右上角免费节点</font>
+## 更多免费资源 --> 右上角免费节点
 - https://snakem982.12131618.xyz
+
+## 试试手气 随机返回一个临时订阅 不保证可用性 <br>Try your luck Randomly return a temporary subscription. Availability is not guaranteed.
+- https://pandora-api.wanshanziwo.eu.org/api/tryourluck
 
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
