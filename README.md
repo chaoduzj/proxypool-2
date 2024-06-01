@@ -54,7 +54,7 @@ The following is a self-built node cost-effective cloud server recommendation（
 ## 更多免费资源 --> 右上角免费节点
 - https://snakem982.12131618.xyz
 
-## 试试手气 随机返回一个临时订阅 不保证可用性 <br>Try your luck Randomly return a temporary subscription. Availability is not guaranteed.
+## 试试手气 随机返回一个Clash.Meta临时订阅 不保证可用性 <br>Try your luck Randomly return a temporary subscription. Availability is not guaranteed.
 - https://pandora-api.wanshanziwo.eu.org/api/tryourluck
 
 ## 免责声明 <br/>Disclaimer
