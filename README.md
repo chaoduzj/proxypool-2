@@ -21,6 +21,11 @@ https://github.com/snakem982/proxypool/blob/main/webfuzz.yaml
 ### telegram channel hub
 https://github.com/snakem982/proxypool/blob/main/tgchannel.json
 
+## Pandora-Box
+A Simple Mihomo/Clash.Meta/Clash GUI.<br>一个简易的 Mihomo/Clash.Meta/Clash 客户端。
+<br>
+https://github.com/snakem982/Pandora-Box
+
 ## <font color="red">温馨提示<br/>Friendly Reminder</font>
 <font color="red">节点链接来自公开在互联网上的信息，不保证财产信息安全和稳定性。不建议长期使用！！！<br/>
 Nodes come from information published on the Internet,
