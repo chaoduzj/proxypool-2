@@ -36,7 +36,9 @@ Long-term use is not recommended! ! !</font><br/>
 - https://www.youtube.com/watch?v=vuF6rDLp3pg
 - https://www.youtube.com/watch?v=7yTpdsOF8us<br/>
 
-若要持续、稳定、安全、高速的节点请自建，下面是高性价比云服务器推荐（可以用支付宝）：<br/>
+若要持续、稳定、安全、高速的节点请自建，<br/>
+推荐使用Tuic,Hysteria2,Juicity协议套上Tls,任何时候稳定输出，<br/>
+下面是免实名免备案的高性价比云服务器推荐（可以用支付宝）：<br/>
 If you want a continuous, stable, safe, and high-speed node, please build it yourself.
 The following is a self-built node cost-effective cloud server recommendation（Support Alipay）:<br/>
 | 序号 | 流量/月  |  网速   | CPU核数 |  运行内存  |  硬盘   |  价格/年  |                              查看详情                               |
