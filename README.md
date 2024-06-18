@@ -3,13 +3,9 @@
 ![Static Badge](https://img.shields.io/badge/ss|ssr|vmess|vless|trojan-free-orange)
 ![Static Badge](https://img.shields.io/badge/tuic|hysteria|hysteria2-free-orange)
 
-超级 Mihomo/Clash.Meta/Clash 节点池聚合.
-不定期更新。
-欢迎star，共享免费节点。
+Mihomo/Clash.Meta/Clash 节点池.
 <br/>
-Super Mihomo/Clash.Meta/Clash node pool aggregation.
-Update when I have time.
-Welcome to star and share free nodes.
+Mihomo/Clash.Meta/Clash node aggregation.
 
 ## <br>订阅地址或分享链接在如下文件里<br>The subscription address or sharing link is in the following file
 ### nodelist.txt
@@ -20,12 +16,6 @@ https://github.com/snakem982/proxypool/blob/main/proxies.txt
 https://github.com/snakem982/proxypool/blob/main/webfuzz.yaml
 ### telegram channel hub
 https://github.com/snakem982/proxypool/blob/main/tgchannel.json
-
-## <br>Pandora-Box
-A Simple Mihomo/Clash.Meta/Clash GUI.<br>一个简易的 Mihomo/Clash.Meta/Clash 桌面客户端。
-<br>
-https://github.com/snakem982/Pandora-Box
-<br>
 
 ## <br><font color="red">温馨提示<br/>Friendly Reminder</font>
 <font color="red">节点链接来自公开在互联网上的信息，不保证财产信息安全和稳定性。不建议长期使用！！！<br/>
@@ -55,15 +45,6 @@ The following is a self-built node cost-effective cloud server recommendation（
 | 10 | 6000G | 1Gbps |   2   | 2.5 G  | 38 GB | $23.88 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=840 "点击查看") |
 | 11 | 6500G | 1Gbps |   3   | 2.5 G  | 50 GB | $26.25 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=157 "点击查看") |
 | 12 | 8000G | 1Gbps |   2   |  4 G   | 60 GB | $37.38 | [链接](https://my.racknerd.com/aff.php?aff=8613&pid=829 "点击查看") |
-
-下面是支持ipv6的服务器推荐，需要注册登录后浏览：<br/>
-- [1 ipv4,3 ipv6](https://app.cloudcone.com/?ref=11078 "美国1个ip4地址，3个ip6地址")
-
-## <br>更多免费资源 --> 右上角菜单 --> 免费节点
-- https://snakem982.12131618.xyz
-
-## <br>试试手气 随机返回一个Clash.Meta临时订阅 不保证可用性 <br>Try your luck Randomly return a temporary subscription. <br>Availability is not guaranteed.
-- [链接 Link](https://pandora-api.wanshanziwo.eu.org/api/tryourluck "点击查看")
 
 ## <br>免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
